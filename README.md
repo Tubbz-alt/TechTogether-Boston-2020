@@ -1,6 +1,10 @@
 # PetMatch - Hackathon Project for TechTogether Boston 2020
 By: Samarah Uriarte, Natalie Starczewski, Eva Lynch, and Amelia Fordyce
 
+## Award Update: 
+- At the conclusion of the demo period of TechTogether Boston 2020, PetMatch was awarded the 1st place prize for AWS' sponsored challenge, **The Best Use of AWS**, for our experimentation with using Amazon Rekognition and Machine Learning Training to allow lost or found pets to be reconnected with their owners and to help users learn more about animals they may see on the street by identifying the animal breeds in photos.
+- At the conclusion of the demo period of TechTogether Boston 2020, PetMatch was awarded the 3rd place prize for Wayfair's sponsored challenges, **Making Your Home Accessible** and **Rentals in The Modern Day**, for our commitment to creating an application that helps differently abled people (mental health, physical, trauma health) improve the state of their current home and that helps renters find potential pets as housemates.
+
 Note: To view online, visit https://ttboston20.appspot.com/landing.html
 
 Built With:
